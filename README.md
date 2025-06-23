@@ -49,3 +49,7 @@ magento-docker/
 
 use github URL to check the source code:  https://github.com/Prajktalondhe/Magento-folder.git
 
+code Partially working
+output screen:
+![image](https://github.com/user-attachments/assets/f88171c7-2e58-41c0-b144-c6706e833b35)
+
