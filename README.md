@@ -47,5 +47,5 @@ magento-docker/
 │   └── (Magento source code)
 └── README.md
 
-use github URL to check the source code: 
+use github URL to check the source code:  https://github.com/Prajktalondhe/Magento-folder.git
 
